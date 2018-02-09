@@ -5,7 +5,7 @@
 wordpress_sites:
   example.com:
     site_hosts:
-      - canonical: 138.68.135.205
+      - canonical: 46.101.49.136
     local_path: ../site # path targeting local Bedrock site directory (relative to Ansible root)
     repo: git@github.com:jwlfi/tesllis-test.git # replace with your Git repo URL
     repo_subtree_path: site # relative path to your Bedrock/WP directory in your repo
